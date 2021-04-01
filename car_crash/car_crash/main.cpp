@@ -11,7 +11,6 @@ int main()
 	mesh.CreateMesh();
 
 	const int iter = 20;
-	wait();
 	//Solve(mesh, iter);
 	Animate(mesh, iter);
 	wait();
