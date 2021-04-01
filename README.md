@@ -1,1 +1,1 @@
-# car_crash
+Car crash simulation. Project aimed at expanding numerical methods knowlegde and practising C++. In order to visualise result, which can be seen in simulation.mkv file, a simple winbgi2.h library was used.
